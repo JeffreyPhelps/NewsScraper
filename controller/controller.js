@@ -1,3 +1,5 @@
+// Jeffrey Phelps | DU Full-Stack Web Dev Bootcamp 2017/2018 | Mod-18 Homework | News Scraper 
+
 //dependencies
 var express = require('express');
 var router = express.Router();

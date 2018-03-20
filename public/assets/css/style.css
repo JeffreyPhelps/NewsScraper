@@ -1,3 +1,5 @@
+/* Jeffrey Phelps | DU Full-Stack Web Dev Bootcamp 2017/2018 | Mod-18 Homework | News Scraper */
+
 body{
   background: url('../img/motivo3-01.jpg') repeat;
   background-size: 600px;
@@ -30,11 +32,13 @@ main{
 .input-field input[type=text]:focus + label {
  color: #e91e63;
 }
+
 /* label underline focus color */
 .input-field input[type=text]:focus {
  border-bottom: 1px solid #e91e63;
  box-shadow: 0 1px 0 0 #000;
 }
+
 /* icon prefix focus color */
 .input-field .prefix.active {
  color: #ec407a;
