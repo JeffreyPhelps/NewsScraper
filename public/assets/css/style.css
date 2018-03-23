@@ -24,8 +24,8 @@ main{
 #nameComment{
   /*border-bottom: 2px solid #ec407a;*/
   font-weight: bold;
-  background: blue;
-  color: white;
+  background: #42a5f5;
+  color: darkblue;
 }
 
 /* label focus color */
