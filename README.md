@@ -1,6 +1,6 @@
 # News Scraper
 
-Created during mod-18 of the University of Denver's full-stack web dev bootcamp. This app uses Cheerio to scrape news articles from a site and allows the user to make comments and delete them. Uses a Mongo databse and Mongoose to store comments and articles.
+Created during mod-18 of the University of Denver's full-stack web dev bootcamp 2017/2018. This app uses Cheerio to scrape news articles from a specific news site and allows the user to make comments on each artcle and delete them. The app uses a Mongo databse and Mongoose to store comments and articles.
 
 ## Live Heroku App Link
 https://news-scraper-3000.herokuapp.com/
