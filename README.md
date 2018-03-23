@@ -17,7 +17,7 @@ Article page to read each article
 Add comments by filling in the form
 
 ## Technologies used
-- Node.js
+- Node.js - https://nodejs.org/en/
 - Handlebars - http://handlebarsjs.com/
 - MongoDB - https://www.mongodb.com/download-center#community
 - Mongoose - http://mongoosejs.com/docs/
